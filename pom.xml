@@ -18,9 +18,6 @@
     <modules>
         <module>poi-common</module>
         <module>poi-autoconfigure</module>
+        <module>poi-spring-boot-starter</module>
     </modules>
 </project>
-<!--poi-spring-boot-starter-parent
-+ - poi-common
-+ - poi-autoconfigure
-+ - poi-spring-boot-starter-->
