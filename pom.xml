@@ -15,6 +15,21 @@
 
     <packaging>pom</packaging>
 
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>ua.kovalchuk</groupId>
+                <artifactId>poi-common</artifactId>
+                <version>0.0.1-SNAPSHOT</version>
+            </dependency>
+            <dependency>
+                <groupId>ua.kovalchuk</groupId>
+                <artifactId>poi-autoconfigure</artifactId>
+                <version>0.0.1-SNAPSHOT</version>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
+
     <modules>
         <module>poi-common</module>
         <module>poi-autoconfigure</module>
