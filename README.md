@@ -6,6 +6,7 @@
 * [Creating Your Own Starter](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#features.developing-auto-configuration.custom-starter)
 * [Spring Boot Autoconfigure source code](https://github.com/spring-projects/spring-boot/tree/main/spring-boot-project/spring-boot-autoconfigure/src/main/java/org/springframework/boot/autoconfigure)
 * [Spring Boot Starters source code](https://github.com/spring-projects/spring-boot/tree/main/spring-boot-project/spring-boot-starters)
+* [Building a Starter for Event Messaging](https://reflectoring.io/spring-boot-starter/)
 
 # HLD
 ### Concept
