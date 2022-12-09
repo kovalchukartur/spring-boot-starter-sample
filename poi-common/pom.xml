@@ -6,16 +6,10 @@
     <parent>
         <groupId>ua.kovalchuk</groupId>
         <artifactId>spring-starter-sample</artifactId>
-        <version>0.0.2-SNAPSHOT</version>
+        <version>0.0.3-SNAPSHOT</version>
     </parent>
 
     <artifactId>poi-common</artifactId>
-
-    <properties>
-        <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
-        <java.version>17</java.version>
-    </properties>
 
     <dependencies>
         <dependency>
