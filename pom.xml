@@ -10,7 +10,7 @@
     </parent>
     <groupId>ua.kovalchuk</groupId>
     <artifactId>spring-starter-sample</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>spring-starter-sample</name>
 
     <packaging>pom</packaging>
@@ -20,12 +20,12 @@
             <dependency>
                 <groupId>ua.kovalchuk</groupId>
                 <artifactId>poi-common</artifactId>
-                <version>0.0.1-SNAPSHOT</version>
+                <version>0.0.2-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>ua.kovalchuk</groupId>
                 <artifactId>poi-autoconfigure</artifactId>
-                <version>0.0.1-SNAPSHOT</version>
+                <version>0.0.2-SNAPSHOT</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
